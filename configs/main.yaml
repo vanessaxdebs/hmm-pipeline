@@ -1,0 +1,8 @@
+paths:
+  swissprot: "data/uniprot_sprot.fasta"
+  output: "results"
+
+hmm:
+  evalue: 1e-5
+  seed: 42
+  n_negatives: 50
