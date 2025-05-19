@@ -2,3 +2,5 @@
 biopython==1.81
 scikit-learn==1.0.2
 matplotlib==3.5.1
+pyyaml==6.0
+pytest==7.0
